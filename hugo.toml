@@ -1,0 +1,4 @@
+baseURL = 'https://eiixy.com/'
+languageCode = 'zh-cn'
+title = 'My New Hugo Site'
+theme = 'ananke'
